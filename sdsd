@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Image Test</title>
+</head>
+<body>
+  <h1>Test Image from GitHub</h1>
+  <img src="https://raw.githubusercontent.com/l2ust/test-of-github-bug/main/download.jpeg" alt="Image" width="300" />
+</body>
+</html>

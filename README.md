@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/l2ust/test-of-github-bug/main/download.jpeg](https://github.com/l2ust/test-of-github-bug/blob/main/download.jpeg?raw=true)" alt="Logo" width="200"/>
+  <img src="[https://raw.githubusercontent.com/l2ust/test-of-github-bug/refs/heads/main/download.jpeg?token=GHSAT0AAAAAADH2BADKGII6LETDA6EK542Y2ETNKHQ](https://github.com/l2ust/test-of-github-bug/blob/main/download.jpeg?raw=true)" alt="Logo" width="200"/>
 </p>
 
 # Welcome to My Project
